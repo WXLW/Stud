@@ -1,2 +1,2 @@
 # Stud
-111
+Predicting the shear resistance of headed stud connectors
